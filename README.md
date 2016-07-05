@@ -29,3 +29,6 @@ dependencies {
 	  compile 'com.github.at-daolq:Android-StartActivityForResultFromFragment:V1.0'
 }
 ```
+
+##Thanks
+- [The Cheese Factory](https://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
