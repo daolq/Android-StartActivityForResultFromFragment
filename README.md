@@ -5,8 +5,8 @@ You can start Another Activity from Fragment and do like from Activity
 
 #####How to use:
 
-``Activity`` contain Fragment must ``extends BaseActivityForResult``
-``Fragment`` you want to startActivityforResult must ``extends BaseFragmentForResult``
+- ``Activity`` contain Fragment must ``extends BaseActivityForResult``
+- ``Fragment`` you want to startActivityforResult must ``extends BaseFragmentForResult``
 
 - Please check my sample to understand more clearly
 
