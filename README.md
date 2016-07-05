@@ -1,7 +1,7 @@
 # Android-StartActivityForResultFromFragment
 ------------------------------------------------------------------------
 
-You can start Another Activity from Fragment and do like from Activity
+You can start another Activity from Fragment and do like from Activity
 
 #####How to use:
 
