@@ -8,7 +8,7 @@ import com.squareup.otto.Subscribe;
 
 /**
  * Copyright © 2016 AsianTech inc.
- * Created by Thang Truong on 1/6/16.
+ * Created by DaoLQ on 1/6/16.
  */
 public class BaseFragmentForResult extends Fragment {
 

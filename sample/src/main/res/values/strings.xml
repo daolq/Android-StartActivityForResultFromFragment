@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StartActivityForresultFromFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="your_name">Your Name: %s</string>
+    <string name="set_new">Set New</string>
 </resources>
